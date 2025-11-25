@@ -48,8 +48,9 @@ Ser referência em integração de soluções em Tecnologia da Informação e Co
 ## 💻 Stack Tecnológica
 
 <div align="center">
-
-![Asterisk](https://img.shields.io/badge/Asterisk-F60-FF6600?style=flat-square&logo=asterisk&logoColor=white)
+   
+![SIP](https://img.shields.io/badge/SIP-Protocol-0066CC?style=flat-square&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-VoIP-FF6600?style=flat-square&logo=asterisk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
